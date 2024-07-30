@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "James",
+    "LastName": "Johnson",
+    "SalaryPerHour": 30.00
+  },
+  {
+    "Id": 2,
+    "FirstName": "Bob",
+    "LastName": "Smith",
+    "SalaryPerHour": 25.50
+  },
+  {
+    "Id": 3,
+    "FirstName": "Charlie",
+    "LastName": "Brown",
+    "SalaryPerHour": 28.75
+  }
+]

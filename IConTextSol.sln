@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IConTextSol", "IConTextSol\IConTextSol.csproj", "{F1C2D162-07E4-453B-A69B-5A78EEEFF47D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IConTextSolTest", "IConTextSolTest\IConTextSolTest.csproj", "{4AB770C8-A646-4A22-A040-EE80BDA6AA66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C2D162-07E4-453B-A69B-5A78EEEFF47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C2D162-07E4-453B-A69B-5A78EEEFF47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C2D162-07E4-453B-A69B-5A78EEEFF47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C2D162-07E4-453B-A69B-5A78EEEFF47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB770C8-A646-4A22-A040-EE80BDA6AA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB770C8-A646-4A22-A040-EE80BDA6AA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB770C8-A646-4A22-A040-EE80BDA6AA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB770C8-A646-4A22-A040-EE80BDA6AA66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC412288-D117-4A39-985C-13A6A60D8572}
+	EndGlobalSection
+EndGlobal
